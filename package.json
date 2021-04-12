@@ -2,17 +2,12 @@
   "name": "zap-map",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vfernandes0408/zap-map.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vfernandes0408/zap-map/issues"
-  },
-  "homepage": "https://github.com/vfernandes0408/zap-map#readme",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
